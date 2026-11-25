@@ -1,11 +1,11 @@
 @import 'tailwindcss';
 
 @theme inline {
-  --color-blush: #F3D9D6;
-  --color-cream: #FBF6F0;
-  --color-berry: #A8445E;
-  --color-gold: #C9A45C;
-  --color-brown: #4A3530;
+  --color-blush: #f3d9d6;
+  --color-cream: #fbf6f0;
+  --color-berry: #a8445e;
+  --color-gold: #c9a45c;
+  --color-brown: #4a3530;
   --font-sans: var(--font-nunito);
   --font-serif: var(--font-playfair);
   --font-script: var(--font-great-vibes);
